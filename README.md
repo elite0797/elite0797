@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠 Senior AI & Full-Stack Developer | Voice + Vision + Intelligence Systems
+### 🧠 Senior Full-Stack Developer
 
 > “I build software that *thinks, speaks, and scales* — and sometimes even makes coffee ☕”
 
@@ -118,8 +118,8 @@ I combine creativity, code, and caffeine to build things that make people go: *�
 ## 📊 Developer Stats
 
 <div align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Talent-King&theme=tokyonight" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Talent-King&theme=tokyonight" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elite0797&theme=tokyonight" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elite0797&theme=tokyonight" />
 </div>
 
 ---
@@ -135,13 +135,13 @@ I combine creativity, code, and caffeine to build things that make people go: *�
 </a></sub>
 </td>
 <td align="center" width="200">
-<sub><a href="[[https://Talent-King.vercel.app](https://my-essence-folio-ap2l-d3el1655q-healers-projects-fbdad169.vercel.app/)](https://my-essence-folio-ap2l-d3el1655q-healers-projects-fbdad169.vercel.app/)">
+<sub><a href="[[https://elite0797.vercel.app](https://my-essence-folio-ap2l-d3el1655q-healers-projects-fbdad169.vercel.app/)](https://my-essence-folio-ap2l-d3el1655q-healers-projects-fbdad169.vercel.app/)">
   🌐<br/>
 <b>Portfolio</b><br/>
 </a></sub>
 </td>
 <td align="center" width="200">
-<sub><a href="https://github.com/Talent-King">
+<sub><a href="https://github.com/elite0797">
 🐙<br/>
 <b>GitHub</b><br/>
 </a></sub>
@@ -149,9 +149,6 @@ I combine creativity, code, and caffeine to build things that make people go: *�
 </tr>
 </table>
 
-<p align="center">
-Have a project in <b>AI, automation, or voice tech</b>? Let’s build something smart… and maybe a little quirky. 😄
-</p>
 
 
 ---
