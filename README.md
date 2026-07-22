@@ -2,18 +2,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-This is a **Senior AI Engineer & Full-Stack Developer** with a passion for making technology feel *alive*.  
-From **intelligent chat systems** to **voice-driven apps** and **scalable platforms**,  
-I combine creativity, code, and caffeine to build things that make people go: *“wait… it can do that?”*
+This is a **Senior AI Engineer & Full-Stack Developer** with a **PASSION**. 
+I turn ideas into reliable software by combining creativity, technology, and a passion for building products people love to use.
 
-💡 **Core Focus Areas:**
-- 🤖 **AI & Machine Learning** – NLP, LLMs, and custom OpenAI integrations  
-- 🗣️ **Voice + Streaming Systems** – Real-time STT/TTS, GStreamer, WebRTC  
-- 🌐 **Full-Stack Platforms** – Next.js, Node.js, Django, scalable backends  
-- 📱 **Mobile Development** – Flutter & React Native for cross-platform magic  
-- ⚙️ **Cloud Architecture** – AWS, GCP, Firebase, Docker, CI/CD pipelines  
+---
+
+## Developer Stats
+
+<div align="center">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elite0797&theme=tokyonight" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elite0797&theme=tokyonight" />
+</div>
 
 ---
 
@@ -35,14 +36,5 @@ I combine creativity, code, and caffeine to build things that make people go: *�
 </td>
 </tr>
 </table>
-
----
-
-## Developer Stats
-
-<div align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elite0797&theme=tokyonight" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elite0797&theme=tokyonight" />
-</div>
 
 ---
