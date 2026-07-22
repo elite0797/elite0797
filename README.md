@@ -17,15 +17,6 @@ I combine creativity, code, and caffeine to build things that make people go: *â
 
 ---
 
-## Developer Stats
-
-<div align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elite0797&theme=tokyonight" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elite0797&theme=tokyonight" />
-</div>
-
----
-
 ## Connect With Me
 
 <table align="center">
@@ -47,3 +38,11 @@ I combine creativity, code, and caffeine to build things that make people go: *â
 
 ---
 
+## Developer Stats
+
+<div align="center">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elite0797&theme=tokyonight" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elite0797&theme=tokyonight" />
+</div>
+
+---
