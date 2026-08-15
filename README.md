@@ -4,17 +4,8 @@
 
 ## About Me
 
-This is a **Senior AI Engineer & Full-Stack Developer** with a **PASSION**. 
+This is a **Senior AI Engineer & Full-Stack Developer**. 
 I turn ideas into reliable software by combining creativity, technology, and a passion for building products people love to use.
-
----
-
-## Developer Stats
-
-<div align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elite0797&theme=tokyonight" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elite0797&theme=tokyonight" />
-</div>
 
 ---
 
