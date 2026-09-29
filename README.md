@@ -4,7 +4,7 @@
 
 ## About Me
 
-This is a **Senior AI Engineer & Full-Stack Developer**. 
+This is a **Software Architecture & Senior Full-Stack AI Developer**. 
 I turn ideas into reliable software by combining creativity, technology, and a passion for building products people love to use.
 
 ---
